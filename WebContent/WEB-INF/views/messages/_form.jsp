@@ -2,7 +2,6 @@
 <label for="title">タイトル</label><br />
 <input type="text" name="title" id="title" value="${message.title}" />
 <br /><br />
-
 <label for="content_msg">メッセージ</label><br />
 <input type="text" name="content" id="content_msg" value="${message.content}" />
 <br /><br />
